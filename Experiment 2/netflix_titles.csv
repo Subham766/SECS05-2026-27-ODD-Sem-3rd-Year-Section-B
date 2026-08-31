@@ -1,0 +1,26 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+1,Movie,The Great Adventure,John Smith,"Asha Rao, Daniel Lee",United States,"September 1, 2020",2020,PG-13,120 min,"Action, Adventure",An exciting journey across the world.
+2,TV Show,City Stories,Maria Jones,"Emma Stone, Raj Kumar","India, United States","August 15, 2021",2021,TV-14,3 Seasons,"Drama, International TV Shows",Stories of people living in a modern city.
+3,Movie,Laugh Out Loud,David Brown,"Chris Green, Lisa Ray",United States,"July 10, 2019",2019,PG,95 min,Comedies,A family comedy full of unexpected moments.
+4,Movie,Hidden Truth,Anita Sharma,"Vikram Singh, Neha Patel",India,"June 20, 2022",2022,TV-14,110 min,"Dramas, Thrillers",A detective uncovers a hidden mystery.
+5,TV Show,World Kitchen,,"Chef Anna, Chef Mark",United Kingdom,"May 5, 2020",2020,TV-G,2 Seasons,"International TV Shows, Reality TV",Chefs compete to create amazing dishes.
+6,Movie,Ocean Blue,Kevin Miller,"Tom Adams, Sara Khan",Canada,"April 12, 2018",2018,PG,105 min,Documentaries,A documentary exploring ocean life.
+7,Movie,Night Chase,Paul Wilson,"Ryan Clark, Priya Shah",United States,"March 30, 2023",2023,R,125 min,"Action, Thrillers",A detective races against time to solve a case.
+8,TV Show,School Days,Laura Davis,"Nina Roy, Amit Das",India,"February 18, 2022",2022,TV-PG,4 Seasons,"Teen TV Shows, Dramas",Young students experience friendship and challenges.
+9,Movie,Green Planet,James Taylor,David Kim,Australia,"January 10, 2017",2017,G,90 min,"Documentaries, Nature",A documentary exploring forests and wildlife.
+10,Movie,Love Again,Sophia Martin,"Arjun Mehta, Emily Brown","India, United States","December 12, 2021",2021,PG-13,115 min,"Dramas, Romantic Movies",Two people find love after difficult experiences.
+11,TV Show,Tech World,Michael Wilson,"Alex Chen, Sara Lee",,"November 8, 2023",2023,TV-14,2 Seasons,Docuseries,Technology and innovation around the world.
+12,Movie,Mountain Life,Daniel Moore,James Hill,"Canada, United States","October 2, 2016",2016,PG,100 min,"Documentaries, Nature",Life in remote mountain regions.
+13,Movie,Comedy Night,Peter Clark,"John King, Maya Singh",United Kingdom,"September 14, 2020",2020,PG-13,88 min,Comedies,Friends plan an unforgettable night.
+14,TV Show,Detective Files,George Adams,"Rohan Kapoor, Lisa White",United States,"August 22, 2022",2022,TV-MA,5 Seasons,"Crime TV Shows, Thrillers",Investigators solve difficult criminal cases.
+15,Movie,Desert Winds,Ahmed Khan,"Omar Ali, Sara Noor",United Arab Emirates,"July 7, 2015",2015,PG,102 min,"Dramas, International Movies",A story of survival in the desert.
+16,Movie,Future World,Linda Scott,"Mark Young, Priya Shah",United States,"June 11, 2024",2024,PG-13,118 min,"Sci-Fi, Action",A futuristic society faces a major threat.
+17,TV Show,Food Masters,William Harris,"Chef John, Chef Maria",India,"May 19, 2023",2023,TV-G,3 Seasons,"Reality TV, International TV Shows",Chefs compete in creative cooking challenges.
+18,Movie,The Journey,Kevin Brown,"Anil Rao, Emma Clark",India,"April 4, 2019",2019,,108 min,"Dramas, International Movies",A young person travels to discover their roots.
+19,Movie,Wild Earth,Sarah Green,David Wilson,"Australia, United States","March 1, 2018",2018,G,92 min,"Documentaries, Nature",Wildlife and natural environments around the world.
+20,TV Show,Family Matters,Thomas King,"Raj Patel, Anita Roy","India, United Kingdom","February 9, 2021",2021,TV-PG,2 Seasons,"Family TV, Dramas",A family learns to overcome everyday challenges.
+21,Movie,Final Mission,Robert Adams,"Chris Evans, Neha Singh",United States,"January 15, 2024",2024,R,130 min,"Action, Thrillers",A team undertakes a dangerous final mission.
+22,Movie,Magic Moments,Susan White,,India,"December 5, 2020",2020,PG,97 min,"Comedies, Romantic Movies",A light-hearted romantic comedy.
+23,TV Show,History Uncovered,Edward Brown,Dr. John Lee,United Kingdom,"November 20, 2019",2019,TV-PG,1 Season,"Docuseries, British TV Shows",Historical events are explored through interviews.
+24,Movie,Silent River,Mark Davis,"Priya Kapoor, Daniel Smith",Canada,"October 10, 2017",2017,PG-13,112 min,"Dramas, Thrillers",A mysterious event changes a small town.
+25,Movie,Future Stars,Anna Miller,Young Artists,United States,"September 3, 2022",2022,PG,105 min,Children & Family Movies,Young performers compete for a big opportunity.
