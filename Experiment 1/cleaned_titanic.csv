@@ -1,0 +1,22 @@
+,PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Fare,Sex_male,Embarked_Q,Embarked_S,FamilySize,AgeGroup
+0,1,0,3,"Braund, Mr. Owen",22.0,1,0,0.0,True,False,True,2,2
+1,2,1,1,"Cumings, Mrs. John",38.0,1,0,1.0,False,False,False,2,2
+2,3,1,3,"Heikkinen, Miss Laina",26.0,0,0,0.011996418979409146,False,False,True,1,2
+3,4,1,1,"Futrelle, Mrs. Jacques",28.0,1,0,0.8209489704565802,False,False,True,2,2
+4,5,0,3,"Allen, Mr. William",35.0,0,0,0.0143240823634736,True,False,True,1,2
+5,6,0,3,"Moran, Mr. James",28.0,0,0,0.021665174574753837,True,True,False,1,2
+6,7,1,2,"McCarthy, Mr. Timothy",54.0,0,0,0.798746642793196,True,False,True,1,2
+7,8,0,3,"Palsson, Master. Gosta",2.0,3,1,0.24744852282900626,True,False,True,5,0
+8,9,1,1,"Johnson, Mrs. Oscar",27.0,0,2,0.06947179946284693,False,False,True,3,2
+9,10,1,2,"Nasser, Mrs. Nicholas",14.0,1,0,0.40859444941808415,False,False,False,2,1
+10,11,0,3,"Sage, Mr. Douglas",30.0,0,0,0.0143240823634736,True,False,True,1,2
+11,12,1,1,"Andersson, Miss Ingeborg",35.0,1,0,0.3455684870188004,False,False,True,2,2
+12,13,0,3,"Hansen, Mr. Henry",28.0,0,0,1.0,True,False,True,1,2
+13,14,1,2,"Isham, Miss Ann",40.0,0,0,0.10295434198746645,False,False,True,1,2
+14,15,0,3,"Williams, Mr. Charles",28.0,0,0,0.0143240823634736,True,False,True,1,2
+15,16,1,1,"Green, Mr. Charles",45.0,0,0,0.3357206803939123,True,False,True,1,2
+16,17,0,2,"Rice, Master. Eugene",4.0,4,1,0.24619516562220234,True,False,True,6,0
+17,18,0,3,"Williams, Mr. Charles",28.0,0,0,0.0143240823634736,True,False,True,1,2
+18,19,1,1,"Beesley, Mr. Lawrence",49.0,0,0,1.0,True,False,True,1,2
+19,20,0,3,"Kantor, Mr. Sinai",19.0,0,0,0.0116383169203223,True,False,True,1,2
+20,1,0,3,"Braund, Mr. Owen",22.0,1,0,0.0,True,False,True,2,2
